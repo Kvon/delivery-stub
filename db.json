@@ -7,5 +7,6 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "calc": {"result":{"price":"470","deliveryPeriodMin":8,"deliveryPeriodMax":10,"deliveryDateMin":"2020-05-14","deliveryDateMax":"2020-05-16","tariffId":"233","priceByCurrency":470,"currency":"RUB"},"tariff":{"date":"2020-05-06","options":{"cdek_cost":{"cents":470,"currency_iso":"RUB"},"cargo_weight":"0.5 kg"},"currency_code":"CNY","sf_options":{"lower_weight":"500 g","step_weight":"100 g","step_cost":{"cents":500,"currency_iso":"CNY"},"base_cost":{"cents":1800,"currency_iso":"CNY"}},"dlv_options":{"lower_weight":"200 g","step_weight":"100 g","step_cost":{"cents":240,"currency_iso":"CNY"},"base_cost":{"cents":480,"currency_iso":"CNY"}},"cargo_weight":"0.5 kg","cdek_cost":{"cents":46,"currency_iso":"CNY"},"sf_cost":{"cents":3800,"currency_iso":"CNY"},"dlv_cost":{"cents":1440,"currency_iso":"CNY"},"cost":{"cents":5286,"currency_iso":"CNY"}},"text":"Предварительно стоимость перевозки составит ¥52,86."}
 }
